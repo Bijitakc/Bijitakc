@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue">Hi 👋, I'm Bijita Kc</h1>
+<h1 align="center" >Hi 👋, I'm Bijita Kc</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
 
