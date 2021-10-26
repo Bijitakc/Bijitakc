@@ -6,3 +6,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijitakc&" alt="bijitakc" /></p>
 
 
+You can also find me on:
+
+<a href=”https://www.linkedin.com/in/bijitakc/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
