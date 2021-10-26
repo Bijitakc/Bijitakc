@@ -5,3 +5,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijitakc&" alt="bijitakc" /></p>
 
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/bijitakc/
