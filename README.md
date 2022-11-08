@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World, I'm Bijita Kc!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Bijita!" alt="Typing SVG" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijitakc&show_icons=true&locale=en" alt="bijitakc" /></p>
