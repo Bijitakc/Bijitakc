@@ -1,4 +1,4 @@
-<h1 align="center" >Hello World, I'm Bijita Kc</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World, I'm Bijita Kc!)](https://git.io/typing-svg)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijitakc&show_icons=true&locale=en" alt="bijitakc" /></p>
