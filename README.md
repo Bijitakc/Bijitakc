@@ -7,13 +7,13 @@
 
 <h2> My Blogs <h2/>
 <li>
-    <a href="https://blog.ldtalentwork.com/2022/07/05/how-to-structure-a-graphql-multipart-form-query-on-postman/" style="text-decoration: none;">How to structure a graphql mutlipart form query on postman?</a>
+    <a href="https://blog.ldtalentwork.com/2022/07/05/how-to-structure-a-graphql-multipart-form-query-on-postman/" style="text-decoration: none; font-size: 17px;">How to structure a graphql mutlipart form query on postman?</a>
 </li>
 <li>
-    <a href="https://blog.ldtalentwork.com/2022/02/17/how-to-import-a-serializer-from-a-variable-in-drf/" style="text-decoration: none;">How to import a serializer from a variable in DRF?</a>
+    <a href="https://blog.ldtalentwork.com/2022/02/17/how-to-import-a-serializer-from-a-variable-in-drf/" style="text-decoration: none;font-size: 17px;">How to import a serializer from a variable in DRF?</a>
 </li>
 <li>
-    <a href="https://blog.ldtalentwork.com/2022/02/28/how-to-fix-the-ubuntu-black-screen-issue-in-virtualbox/" style="text-decoration: none;">How to fix the Ubuntu black screen issue in Virtualbox?</a>
+    <a href="https://blog.ldtalentwork.com/2022/02/28/how-to-fix-the-ubuntu-black-screen-issue-in-virtualbox/" style="text-decoration: none;font-size: 17px;">How to fix the Ubuntu black screen issue in Virtualbox?</a>
 </li>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/bijitakc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
