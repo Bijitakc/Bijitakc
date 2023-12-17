@@ -11,6 +11,7 @@
 
 <h2> Blogs 📝<h2/>
     
+- <sub>[How to build a token validation decorator in Flask for Okta](https://blog.ldtalentwork.com/2023/12/16/how-to-build-a-token-validation-decorator-in-flask-for-okta/)</sub>
 - <sub>[How to structure a graphql mutlipart form query on postman?](https://blog.ldtalentwork.com/2022/07/05/how-to-structure-a-graphql-multipart-form-query-on-postman/) </sub>
 - <sub>[How to import a serializer from a variable in DRF?](https://blog.ldtalentwork.com/2022/02/17/how-to-import-a-serializer-from-a-variable-in-drf/)</sub>
 - <sub>[How to fix the Ubuntu black screen issue in Virtualbox?](https://blog.ldtalentwork.com/2022/02/28/how-to-fix-the-ubuntu-black-screen-issue-in-virtualbox/)</sub>
