@@ -11,7 +11,7 @@
 
 
 <h2> Blogs 📝<h2/> 
-
+- <sub>[Accessing OpenEMR FHIR APIs: A Guide to Client Credentials Grant with JWT Assertion](https://medium.com/@bijitakc/accessing-openemr-fhir-apis-a-guide-to-client-credentials-grant-with-jwt-assertion-d0b711d7cb2b)</sub>sub>
 - <sub>[How I Built a Secure File Upload Service with Flask, Docker, and AWS S3](https://medium.com/@bijitakc/how-i-built-a-secure-file-upload-service-with-flask-docker-and-aws-s3-56dc7420ae76)</sub>
 - <sub>[How to build a token validation decorator in Flask for Okta](https://blog.ldtalentwork.com/2023/12/16/how-to-build-a-token-validation-decorator-in-flask-for-okta/)</sub>
 - <sub>[How to structure a graphql mutlipart form query on postman?](https://blog.ldtalentwork.com/2022/07/05/how-to-structure-a-graphql-multipart-form-query-on-postman/) </sub>
