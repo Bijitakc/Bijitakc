@@ -19,5 +19,3 @@
 - <sub>[How to import a serializer from a variable in DRF?](https://blog.ldtalentwork.com/2022/02/17/how-to-import-a-serializer-from-a-variable-in-drf/)</sub>
 - <sub>[How to fix the Ubuntu black screen issue in Virtualbox?](https://blog.ldtalentwork.com/2022/02/28/how-to-fix-the-ubuntu-black-screen-issue-in-virtualbox/)</sub>
 
-
-![](https://webpets-flame.vercel.app/generated/dog/red_run_8fps.gif)
