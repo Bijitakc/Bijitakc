@@ -45,6 +45,7 @@ Currently expanding my expertise in DevOps, cloud infrastructure, and AI while c
 <h2> 📝 Technical Writing </h2> 
 
 <b> Cloud, Infrastructure & Backend </b>
+- [How I Built an AI-Powered Study System for AWS DVA-C02](https://aws.plainenglish.io/how-i-built-an-ai-powered-study-system-for-aws-dva-c02-3c9f1760246c)
 - [How I Built a Secure File Upload Service with Flask, Docker, and AWS S3](https://medium.com/@bijitakc/how-i-built-a-secure-file-upload-service-with-flask-docker-and-aws-s3-56dc7420ae76)
 
 <b> API Security, Auth & Healthcare Integration </b>
