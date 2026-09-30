@@ -30,9 +30,6 @@ Currently expanding my expertise in DevOps, cloud infrastructure, and AI while c
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websockets&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Currently Learning**
-
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
