@@ -44,6 +44,7 @@ Currently expanding my expertise in DevOps, cloud infrastructure, and AI while c
 <h2> 📝 Technical Writing </h2> 
 
 <b> Cloud, Infrastructure, AI & Backend </b>
+- [Running GitHub Actions Locally](https://medium.com/code-like-a-girl/running-github-actions-locally-b9c2936f4820)
 - [I Added Kubernetes to My Flask App. Here’s What I Learned](https://medium.com/@bijitakc/i-added-kubernetes-to-my-flask-app-heres-what-i-learned-81b1ef4d2341)
 - [How I Built an AI-Powered Study System for AWS DVA-C02](https://aws.plainenglish.io/how-i-built-an-ai-powered-study-system-for-aws-dva-c02-3c9f1760246c)
 - [How I Built a Secure File Upload Service with Flask, Docker, and AWS S3](https://medium.com/@bijitakc/how-i-built-a-secure-file-upload-service-with-flask-docker-and-aws-s3-56dc7420ae76)
